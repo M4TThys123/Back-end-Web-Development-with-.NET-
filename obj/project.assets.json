@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bulbmanager\\Documents\\Back-end Web Development\\EersteProject\\EersteProject.csproj",
+      "projectUniqueName": "C:\\Users\\Bulbmanager\\Documents\\Gits\\Back-end-Web-Development-with-.NET-\\EersteProject.csproj",
       "projectName": "EersteProject",
-      "projectPath": "C:\\Users\\Bulbmanager\\Documents\\Back-end Web Development\\EersteProject\\EersteProject.csproj",
+      "projectPath": "C:\\Users\\Bulbmanager\\Documents\\Gits\\Back-end-Web-Development-with-.NET-\\EersteProject.csproj",
       "packagesPath": "C:\\Users\\Bulbmanager\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bulbmanager\\Documents\\Back-end Web Development\\EersteProject\\obj\\",
+      "outputPath": "C:\\Users\\Bulbmanager\\Documents\\Gits\\Back-end-Web-Development-with-.NET-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bulbmanager\\AppData\\Roaming\\NuGet\\NuGet.Config"

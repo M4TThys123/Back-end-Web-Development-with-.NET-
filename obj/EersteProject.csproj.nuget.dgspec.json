@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Bulbmanager\\Documents\\Back-end Web Development\\EersteProject\\EersteProject.csproj": {}
+    "c:\\Users\\Bulbmanager\\Documents\\Gits\\Back-end-Web-Development-with-.NET-\\EersteProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Bulbmanager\\Documents\\Back-end Web Development\\EersteProject\\EersteProject.csproj": {
+    "c:\\Users\\Bulbmanager\\Documents\\Gits\\Back-end-Web-Development-with-.NET-\\EersteProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Bulbmanager\\Documents\\Back-end Web Development\\EersteProject\\EersteProject.csproj",
+        "projectUniqueName": "c:\\Users\\Bulbmanager\\Documents\\Gits\\Back-end-Web-Development-with-.NET-\\EersteProject.csproj",
         "projectName": "EersteProject",
-        "projectPath": "c:\\Users\\Bulbmanager\\Documents\\Back-end Web Development\\EersteProject\\EersteProject.csproj",
+        "projectPath": "c:\\Users\\Bulbmanager\\Documents\\Gits\\Back-end-Web-Development-with-.NET-\\EersteProject.csproj",
         "packagesPath": "C:\\Users\\Bulbmanager\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Bulbmanager\\Documents\\Back-end Web Development\\EersteProject\\obj\\",
+        "outputPath": "c:\\Users\\Bulbmanager\\Documents\\Gits\\Back-end-Web-Development-with-.NET-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bulbmanager\\AppData\\Roaming\\NuGet\\NuGet.Config"
